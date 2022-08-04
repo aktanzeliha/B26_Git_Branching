@@ -8,7 +8,7 @@ public class TC001 {
 
        // ben coktan pisman oldum bile bu kursa yazildigima
 
-
+// negetive testing
 
     }
 }
