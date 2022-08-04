@@ -6,6 +6,8 @@ public class TC001 {
 
         // more testing
 
+       // ben coktan pisman oldum bile bu kursa yazildigima
+
 
 
     }
